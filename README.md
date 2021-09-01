@@ -21,7 +21,7 @@ Object containing key value pairs
 ## Example Usage
 
 ```yml
-- uses: catenaUS/split-string-by@main
+- uses: BenBroide/split-string-by@main
   id: split
   with:
     string: 'feat/branch-name'
